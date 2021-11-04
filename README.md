@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuffyTaro008
 - [![LuffyTaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuffyTaro008)](https://github.com/LuffyTaro008/github-readme-stats)
-- ![LuffyTaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuffyTaro008&hide=contribs,prs)
+- ![LuffyTaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuffyTaro008&count_private=true)
 
 
 <!---
