@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LuffyTaro008
 - [![LuffyTaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuffyTaro008)](https://github.com/LuffyTaro008/github-readme-stats)
+- ![LuffyTaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuffyTaro008&show_icons=true&theme=radical)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuffyTaro008&layout=compact)](https://github.com/LuffyTaro008/github-readme-stats)
 
 
